@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##This Project is used as App Shell for Micro-front-end Example.
 
 ## Available Scripts
 
